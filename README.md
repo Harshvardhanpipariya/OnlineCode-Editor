@@ -1,7 +1,5 @@
 # Code Deck | An Online IDE
 
-## Demo
-
 ## Project Objective
 
 1. Create a playground area where one can create multiple code snippets and run it using an online compiler and execution system(Judge0)
